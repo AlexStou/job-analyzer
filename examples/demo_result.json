@@ -1,0 +1,171 @@
+{
+  "_note": "Precomputed example output used by demo mode. Generated for the fictional ad and CV in this folder.",
+  "posting": {
+    "job_title": "Junior AI Engineer (LLM Applications)",
+    "company": "Acme Data Labs",
+    "seniority": "junior",
+    "min_years_experience": 0,
+    "location": "Thessaloniki, Greece",
+    "work_mode": "hybrid",
+    "requirements": [
+      {
+        "skill": "Degree in CS/ECE or related",
+        "category": "education",
+        "importance": "must_have",
+        "posting_quote": "BSc or MSc in Computer Science, Electrical & Computer Engineering or a related field"
+      },
+      {
+        "skill": "Python",
+        "category": "programming_language",
+        "importance": "must_have",
+        "posting_quote": "Strong programming skills in Python"
+      },
+      {
+        "skill": "OpenAI API / LLM APIs",
+        "category": "ai_ml",
+        "importance": "must_have",
+        "posting_quote": "Experience with the OpenAI API or similar LLM APIs"
+      },
+      {
+        "skill": "Prompt engineering",
+        "category": "ai_ml",
+        "importance": "must_have",
+        "posting_quote": "Good understanding of prompt engineering"
+      },
+      {
+        "skill": "Git",
+        "category": "tool",
+        "importance": "must_have",
+        "posting_quote": "Familiarity with Git"
+      },
+      {
+        "skill": "English",
+        "category": "spoken_language",
+        "importance": "must_have",
+        "posting_quote": "Very good command of English"
+      },
+      {
+        "skill": "Hugging Face Transformers",
+        "category": "framework_library",
+        "importance": "nice_to_have",
+        "posting_quote": "Experience with Hugging Face Transformers"
+      },
+      {
+        "skill": "RAG and vector databases",
+        "category": "ai_ml",
+        "importance": "nice_to_have",
+        "posting_quote": "Knowledge of retrieval-augmented generation (RAG) and vector databases"
+      },
+      {
+        "skill": "Docker",
+        "category": "cloud_devops",
+        "importance": "nice_to_have",
+        "posting_quote": "Experience with Docker"
+      },
+      {
+        "skill": "SQL",
+        "category": "data",
+        "importance": "nice_to_have",
+        "posting_quote": "Basic knowledge of SQL"
+      },
+      {
+        "skill": "Statistics",
+        "category": "domain_knowledge",
+        "importance": "nice_to_have",
+        "posting_quote": "Background in statistics"
+      }
+    ],
+    "responsibilities": [
+      "Build LLM-powered features using the OpenAI API and open-source models",
+      "Design and evaluate prompts and measure output quality",
+      "Write clean, tested Python code and take part in code reviews",
+      "Deploy small services and monitor their cost and latency"
+    ],
+    "benefits": [
+      "Hybrid work (2 days in the office)",
+      "Training budget and certification support",
+      "Private health insurance"
+    ],
+    "summary": "Entry-level role building LLM-powered applications for clients with the OpenAI API and open-source models. The team values prompt evaluation, clean Python and cost-aware deployment."
+  },
+  "cv_match": {
+    "matches": [
+      {
+        "skill": "Degree in CS/ECE or related",
+        "status": "met",
+        "cv_quote": "Diploma in Electrical & Computer Engineering (integrated master, EQF 7)",
+        "explanation": "ECE integrated master matches the required degree."
+      },
+      {
+        "skill": "Python",
+        "status": "partial",
+        "cv_quote": "Languages: Python, MATLAB",
+        "explanation": "Python is listed, but the CV shows no Python project yet; most hands-on work is in MATLAB."
+      },
+      {
+        "skill": "OpenAI API / LLM APIs",
+        "status": "met",
+        "cv_quote": "Working with the OpenAI API",
+        "explanation": "Completed coursework with the OpenAI API."
+      },
+      {
+        "skill": "Prompt engineering",
+        "status": "met",
+        "cv_quote": "Prompt Engineering with the OpenAI API",
+        "explanation": "Completed a dedicated prompt engineering course."
+      },
+      {
+        "skill": "Git",
+        "status": "met",
+        "cv_quote": "Tools: Git / GitHub",
+        "explanation": "Git is listed as a tool."
+      },
+      {
+        "skill": "English",
+        "status": "met",
+        "cv_quote": "English (C2 - Proficiency)",
+        "explanation": "C2 level exceeds 'very good command'."
+      },
+      {
+        "skill": "Hugging Face Transformers",
+        "status": "partial",
+        "cv_quote": "Working with Hugging Face",
+        "explanation": "Course completed, but no project using Transformers is shown."
+      },
+      {
+        "skill": "RAG and vector databases",
+        "status": "missing",
+        "cv_quote": null,
+        "explanation": "No mention of RAG or vector databases."
+      },
+      {
+        "skill": "Docker",
+        "status": "missing",
+        "cv_quote": null,
+        "explanation": "No mention of Docker."
+      },
+      {
+        "skill": "SQL",
+        "status": "met",
+        "cv_quote": "SQL queries for data analysis",
+        "explanation": "SQL experience mentioned."
+      },
+      {
+        "skill": "Statistics",
+        "status": "met",
+        "cv_quote": "Evaluated results with hypothesis testing and multiple comparison correction (Bonferroni, FDR).",
+        "explanation": "Thesis shows solid applied statistics."
+      }
+    ],
+    "strengths": [
+      "Rigorous statistical evaluation from the thesis, directly useful for measuring LLM output quality",
+      "Completed OpenAI API, prompt engineering and Hugging Face coursework",
+      "C2 English"
+    ],
+    "suggestions": [
+      "Publish a small LLM project on GitHub to turn 'Python' and 'OpenAI API' from coursework into visible experience",
+      "Build a simple RAG demo (e.g. Q&A over a few PDFs) to cover the RAG nice-to-have",
+      "Containerise one project with Docker and mention it in the README"
+    ]
+  }
+}

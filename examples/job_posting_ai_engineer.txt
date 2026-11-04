@@ -1,0 +1,32 @@
+Junior AI Engineer (LLM Applications)
+Acme Data Labs (fictional company) · Thessaloniki, Greece · Hybrid
+
+About the role
+We are looking for a Junior AI Engineer to join our applied AI team. You will build and maintain applications powered by Large Language Models for our clients.
+
+What you will do
+- Build LLM-powered features using the OpenAI API and open-source models
+- Design and evaluate prompts, and measure the quality of model outputs
+- Write clean, tested Python code and review code with the team
+- Deploy small services and monitor their cost and latency
+
+Requirements
+- BSc or MSc in Computer Science, Electrical & Computer Engineering or a related field
+- 0-2 years of professional experience
+- Strong programming skills in Python
+- Experience with the OpenAI API or similar LLM APIs
+- Good understanding of prompt engineering
+- Familiarity with Git
+- Very good command of English
+
+Nice to have
+- Experience with Hugging Face Transformers
+- Knowledge of retrieval-augmented generation (RAG) and vector databases
+- Experience with Docker
+- Basic knowledge of SQL
+- Background in statistics
+
+What we offer
+- Hybrid working model (2 days in the office)
+- Training budget and certification support
+- Private health insurance

@@ -1,0 +1,26 @@
+Sample Candidate (fictional)
+Thessaloniki, Greece
+
+PROFILE
+Electrical & Computer Engineering graduate with a background in statistical analysis and time series analysis. Building applications with Python and LLMs.
+
+EDUCATION
+Diploma in Electrical & Computer Engineering (integrated master, EQF 7)
+
+THESIS
+Causality analysis pipeline for multivariate time series in MATLAB.
+- Implemented Granger causality, transfer entropy and mutual information measures.
+- Evaluated results with hypothesis testing and multiple comparison correction (Bonferroni, FDR).
+
+SKILLS
+Languages: Python, MATLAB
+AI / LLMs: OpenAI API, prompt engineering, Hugging Face, LLMOps
+Tools: Git / GitHub
+Methods: time series analysis, statistical analysis, hypothesis testing
+
+CERTIFICATIONS
+AI Engineer for Data Scientists (DataCamp), in progress
+Completed courses: Working with the OpenAI API, Prompt Engineering with the OpenAI API, Working with Hugging Face, LLMOps Concepts
+
+LANGUAGES
+Greek (native), English (C2 - Proficiency)
